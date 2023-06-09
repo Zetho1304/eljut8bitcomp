@@ -1,0 +1,10 @@
+v 4
+file . "memory.vhdl" "b0b36a26b438a7a9193ea1d3db95876afc3fa4da" "20230609153218.230":
+  entity memory at 1( 0) + 0 on 13;
+  architecture behavioral of memory at 48( 2211) + 0 on 14;
+file . "computer_tb.vhdl" "5c5ee46e57afb4fac229a24a0568551314e257e5" "20230609153226.243":
+  entity computer_tb at 1( 0) + 0 on 17;
+  architecture computer_tb of computer_tb at 7( 97) + 0 on 18;
+file . "computer.vhdl" "d06ace5e6fcc5ec4dc4a922b289cf5bc42dd66ac" "20230609153223.498":
+  entity computer at 1( 0) + 0 on 15;
+  architecture behavioral of computer at 43( 2003) + 0 on 16;
