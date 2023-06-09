@@ -32,7 +32,7 @@ We then create a VCD file for the waveform
 ```bash
 ghdl -r entityname
 ```
-``bash
+```bash
 ghdl -r files --vcd = 'filename.vcd'
 ```
 run the vcd
