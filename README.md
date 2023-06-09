@@ -6,9 +6,9 @@ In this github link contains the necessary files for an 8 bit computer, as a req
 
 ## Brief Explanation
 
-To create this VHDL program for each element we need creating all entities, connection each of the component.
+To create this VHDL program we need these vhdl files.
+Structure of the program, the vhdl files : 
 
-Structure of the program, the vhdl files
 * data_path
 * rom_128x8_sync
 * cpu
